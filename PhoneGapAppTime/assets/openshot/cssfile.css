@@ -1,0 +1,29 @@
+/*here . represents class*/
+.body_clr{
+
+    background-color: #AA66CC;
+}
+.h1_clr{
+
+    text-align: center;
+    color: #ffffff;
+}
+
+.some{
+
+    color: #99CC00;
+    font-family: Arial;
+}
+
+.div-cent{
+
+    text-align: center;
+}
+
+/*here # represents id*/
+
+
+#__center{
+
+    text-align: center;
+}
